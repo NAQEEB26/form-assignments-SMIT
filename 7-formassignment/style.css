@@ -1,0 +1,38 @@
+form{
+  background-color: gray;
+}
+#abc{
+    border-radius: 100px;
+    /* background-color: aqua; */
+    display: inline-block;
+    width: 100px;
+    text-align: left;
+}
+button{
+    border-radius: 10px;
+ /* margin:  auto; */
+ background-color: brown;
+
+}
+button:hover{
+    color: beige;
+background-color: burlywood;
+}
+#def{
+    background-color: aqua;
+}
+input:hover{
+    background-color: brown;
+}
+
+input:focus{
+    background-color:  aqua;} 
+    h4{
+
+        text-align: justify;
+    }
+    body{
+        width: 50% ;
+margin: 50px auto;
+        border: 5px solid black;
+    }
